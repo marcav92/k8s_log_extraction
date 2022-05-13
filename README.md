@@ -1,4 +1,4 @@
-# sysdig_test
+# k8s log extraction script
 
 ## The script that I made
 
